@@ -4,7 +4,7 @@
 # Membres 
 
 - Marco De Amorin
-- /* Charles Cousin /*
+- /* Charles Cousin */
 - Arnaud Dumarché
 - Raphaël Ferreira
 - Thomas Liedts
