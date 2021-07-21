@@ -6,7 +6,7 @@
 - Marco De Amorin
 - /* Charles Cousin */
 - Arnaud Dumarché
-- /* Raphaël Ferreira */
+- Raphaël Ferreira 
 - Thomas Liedts
 - /* Guilhem Bozzi */
 - /* Maë Wolff */
